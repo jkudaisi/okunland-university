@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" role="img" aria-labelledby="t">
+  <title id="t">Okunland University of Nigeria crest</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9C46A"/><stop offset="1" stop-color="#C8962E"/></linearGradient>
+    <linearGradient id="n" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14325C"/><stop offset="1" stop-color="#0A1D37"/></linearGradient>
+  </defs>
+  <path d="M60 4 L112 16 V64 C112 98 90 122 60 136 C30 122 8 98 8 64 V16 Z" fill="url(#g)"/>
+  <path d="M60 11 L105 21.5 V64 C105 94 86 115.5 60 128.5 C34 115.5 15 94 15 64 V21.5 Z" fill="url(#n)"/>
+  <path d="M60 15 L101 24.6 V64" fill="none" stroke="#1BA6E0" stroke-width="1.2" opacity=".6"/>
+  <g fill="url(#g)">
+    <path d="M60 30 l2.4 5 5.4.6-4 3.7 1.1 5.3-4.9-2.7-4.9 2.7 1.1-5.3-4-3.7 5.4-.6z"/>
+  </g>
+  <text x="60" y="68" text-anchor="middle" font-family="Lora, Georgia, serif" font-weight="700" font-size="22" fill="#fff" letter-spacing="1.5">OKU</text>
+  <g fill="none" stroke="url(#g)" stroke-width="2.2" stroke-linejoin="round">
+    <path d="M36 82 C44 78 54 78 60 83 C66 78 76 78 84 82 V100 C76 96 66 96 60 101 C54 96 44 96 36 100 Z"/>
+    <path d="M60 83 V101"/>
+  </g>
+  <text x="60" y="116" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="7.5" fill="#E9C46A" letter-spacing="1.6">EST. 1974</text>
+</svg>
